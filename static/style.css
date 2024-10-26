@@ -1,0 +1,33 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    color: #343a40;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.alert {
+    border-radius: 5px;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+.alert-heading {
+    font-size: 1.5rem;
+}
